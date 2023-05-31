@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @slawek-lubas
 - 👀 I’m interested in powershell
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 slawek-lubas/slawek-lubas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
