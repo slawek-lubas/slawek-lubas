@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slawek-lubas
-- 👀 I’m interested in powershell
+- 👀 I’m interested in powershell, ansible, zabbix
 
 
 <!---
